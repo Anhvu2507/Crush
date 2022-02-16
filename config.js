@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Gửi em iu của tớ",
+    titleWeb: "Gửi em iu của anh",
     introTitle: 'Em yêu dấu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu Em nhiều nhiều 😘😘',
     messDesc: 'Tối nay, anh qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/tuan0700
+    messLink: 'iu em
 }
